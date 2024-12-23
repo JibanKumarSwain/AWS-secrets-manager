@@ -1,5 +1,3 @@
-# AWS-secrets-manager
-This is the automatically 
 
 
 #!/bin/bash
